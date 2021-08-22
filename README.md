@@ -17,6 +17,8 @@ cd kodluyoruzilkrepo
 <p></p>
 code . 
 
+https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png
+
 ## Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
