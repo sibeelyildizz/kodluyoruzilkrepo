@@ -17,7 +17,6 @@ cd kodluyoruzilkrepo
 <p></p>
 code . 
 
-![Lorem picsum gorsel] (https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png)
 
 
 ## Contributing
